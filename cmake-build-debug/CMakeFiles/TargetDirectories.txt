@@ -1,0 +1,5 @@
+/Users/kshitij/CLionProjects/CalcBCProject/cmake-build-debug/CMakeFiles/CalcBCProject.dir
+/Users/kshitij/CLionProjects/CalcBCProject/cmake-build-debug/CMakeFiles/newton.dir
+/Users/kshitij/CLionProjects/CalcBCProject/cmake-build-debug/CMakeFiles/euler.dir
+/Users/kshitij/CLionProjects/CalcBCProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kshitij/CLionProjects/CalcBCProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
